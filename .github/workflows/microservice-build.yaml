@@ -30,9 +30,8 @@ jobs:
       - name: Tests & Coverage
         run: npm run coverage
 
-      # Uncomment the following lines after bdd tests are implemented
-      # - name: Tests & Coverage BDD
-        # run: npm run bdd
+      - name: Tests & Coverage BDD
+        run: npm run bdd
 
       - name: SonarQube Scan
         uses: SonarSource/sonarqube-scan-action@v4
