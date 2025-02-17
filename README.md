@@ -1,5 +1,8 @@
 # Tech Challenge | Products Microservice
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=FIAP-8SOAT-G6_tech-challenge-products&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=FIAP-8SOAT-G6_tech-challenge-products)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=FIAP-8SOAT-G6_tech-challenge-products&metric=coverage)](https://sonarcloud.io/summary/new_code?id=FIAP-8SOAT-G6_tech-challenge-products)
+
 Esse microsserviço é reponsável pelo cadastro e busca de produtos.
 A finalidade é a utilização dos registros na criação e gerenciamento dos pedidos no Tech Challenge Lanchonete.
 
